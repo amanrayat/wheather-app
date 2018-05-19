@@ -1,0 +1,28 @@
+td,th{
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+body {
+    background: url(https://picsum.photos/1920/1080?image=941) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p{
+  margin: 20px 20px;
+  padding:20px 20px;
+  font-family: "Helvetica Neue";
+  font-weight:100;
+  text-align: center;
+  font-size: 50px
+}

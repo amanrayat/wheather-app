@@ -6,6 +6,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
+        <p id="head">Weather Predictor</p>
         <SearchBar />
         <WeatherList />
       </div>
